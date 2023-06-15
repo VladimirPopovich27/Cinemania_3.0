@@ -1,0 +1,12 @@
+import './js/header';
+import './js/mobile-menu';
+import './js/themeToggle';
+import './js/hero';
+import './js/modal_movie';
+import './js/create-trends';
+import './js/modal-team';
+import './js/hero-trailer';
+import './js/scroll-up';
+import './js/pagi';
+import './js/widelySearch';
+import './js/widelySearch_slave';
