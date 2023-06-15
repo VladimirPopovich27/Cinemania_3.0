@@ -1,21 +1,21 @@
 {
-  "name": "Cinemania_3.0",
+  "name": "Cinemania",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ViraZhuhan.github.io/Cinemania_3.0",
+  "homepage": "https://ViraZhuhan.github.io/Cinemania",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Cinemania_3.0/"
+    "build": "parcel build src/*.html --public-url /Cinemania/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ViraZhuhan/Cinemania_3.0"
+    "url": "git+https://github.com/ViraZhuhan/Cinemania"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ViraZhuhan/Cinemania_3.0/issues"
+    "url": "https://github.com/ViraZhuhan/Cinemania/issues"
   },
   "dependencies": {
     "axios": "^1.4.0",
