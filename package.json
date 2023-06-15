@@ -2,7 +2,7 @@
   "name": "Cinemania",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ViraZhuhan.github.io/Cinemania",
+  "homepage": "https://vladimirpopovich27.github.io/Cinemania_3.0/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /Cinemania/"
